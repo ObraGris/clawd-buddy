@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="260" viewBox="0 0 840 260">
+<style>:root{color-scheme:light dark}</style>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F7D9B9"/><stop offset="1" stop-color="#FBEEDD"/></linearGradient>
+  <clipPath id="card"><rect width="840" height="260" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="840" height="260" fill="url(#sky)"/>
+  <circle cx="730" cy="70" r="38" fill="#F2A65A" opacity="0.85"><animate attributeName="r" values="38;41;38" dur="5s" repeatCount="indefinite"/></circle>
+  <path d="M-80 150 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 q10 -6 20 0 t20 0 V260 H-80 Z" fill="#6A9BCC" opacity="0.55"><animateTransform attributeName="transform" type="translate" values="0 0;40 0" dur="4s" repeatCount="indefinite"/></path>
+  <path d="M-80 160 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 q10 -5 20 0 t20 0 V260 H-80 Z" fill="#5A8BBC" opacity="0.8"><animateTransform attributeName="transform" type="translate" values="0 0;40 0" dur="3s" repeatCount="indefinite"/></path>
+  <path d="M0 182 Q 420 168 840 182 V260 H0 Z" fill="#EBD3A6"/>
+  <rect x="90" y="222" width="4" height="4" fill="#D9BC88"/><rect x="230" y="236" width="4" height="4" fill="#D9BC88"/><rect x="420" y="222" width="4" height="4" fill="#D9BC88"/><rect x="610" y="236" width="4" height="4" fill="#D9BC88"/><rect x="760" y="222" width="4" height="4" fill="#D9BC88"/>
+  <text x="40" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="44" font-weight="800" fill="#3D2A1F">clawd-buddy</text>
+  <text x="42" y="98" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#6B4E3D">a tiny crab that lives above your prompt</text>
+  <g fill="#D97757" transform="translate(60 176)">
+    <animateTransform attributeName="transform" type="translate" values="60 176;670 176;670 176;60 176;60 176" keyTimes="0;0.45;0.5;0.95;1" dur="9s" repeatCount="indefinite"/>
+    <path d="M20 0h70v40h-70zM0 20h20v10h-20zM90 20h20v10h-20z"/>
+    <path d="M20 40h10v20h-10zM40 40h10v20h-10zM60 40h10v20h-10zM80 40h10v20h-10z"><animate attributeName="opacity" values="1;0" dur="0.3s" calcMode="discrete" repeatCount="indefinite"/></path><path d="M20 40h10v10h-10zM30 50h10v10h-10zM40 40h10v10h-10zM50 50h10v10h-10zM60 40h10v10h-10zM70 50h10v10h-10zM80 40h10v10h-10zM90 50h10v10h-10z" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" calcMode="discrete" repeatCount="indefinite"/></path>
+    <path d="M30 10h10v10h-10zM70 10h10v10h-10z" fill="#1f1e1d"><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.97;1" dur="4s" calcMode="discrete" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="6 0;-6 0" keyTimes="0;0.5" dur="9s" calcMode="discrete" repeatCount="indefinite"/></path>
+  </g>
+</g>
+</svg>

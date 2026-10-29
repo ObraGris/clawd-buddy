@@ -1,0 +1,14 @@
+{
+  "name": "clawd-buddy",
+  "owner": {
+    "name": "ObraGris"
+  },
+  "plugins": [
+    {
+      "name": "clawd-buddy",
+      "source": "./",
+      "description": "Walks while you type, naps when you pause, thinks while Claude works, parties or sweats when the turn ends"
+    }
+  ],
+  "description": "Clawd, a tiny pixel crab that lives above your Claude Code prompt"
+}
