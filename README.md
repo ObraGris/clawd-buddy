@@ -53,7 +53,16 @@
   </tr>
 </table>
 
-Empty prompt and nothing running? Clawd goes back under his rock.
+Empty prompt and nothing running? Clawd stays put and keeps napping, so he's always there when you come back.
+
+Hover him on the desktop and a tooltip tells you what he's up to.
+
+## 🌊 New in 1.1
+
+- **The whole beach.** On the desktop Clawd now walks the full width of the band, not just a 180px strip, at the same unhurried pace.
+- **Never gone.** An empty prompt no longer sends him under his rock: he naps right where he stopped, and a fresh session starts with him asleep.
+- **Tooltips.** Hover him to see what he's doing: scuttling, napping, thinking, partying or sweating.
+- **Reload-proof.** Whether the last command failed, and where he was in his walk, now live in session state, so reloading the mod mid-turn never turns a failure into a party.
 
 ## 📦 Install
 
@@ -85,7 +94,7 @@ Needs Claude Code 2.1.287 or later, with mods turned on.
 
 ## 🖥️ In the terminal
 
-The terminal gets the classic still block-glyph Clawd, shown while the prompt has text:
+The terminal gets the classic still block-glyph Clawd, always there:
 
 ```
  ▐▛███▜▌
@@ -98,6 +107,7 @@ The animations are desktop-only.
 ## 🪸 Known quirks
 
 - Clawd's position is worked out from time. If the app redraws the band on its own (resizing the window, for example), he may nap a few pixels away from where you last saw him.
+- The band's width is turned into pixels at about 7px per column. With an unusual font size he may stop a little short of the edge.
 - Reactions last 6 seconds. Start typing and he drops the party and gets back to walking.
 
 ## 🦀 Credits

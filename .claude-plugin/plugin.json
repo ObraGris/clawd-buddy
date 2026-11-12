@@ -1,6 +1,6 @@
 {
   "name": "clawd-buddy",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A tiny pixel crab above your prompt: walks while you type, naps when you pause, thinks while Claude works, parties or sweats when the turn ends",
   "author": { "name": "ObraGris" },
   "homepage": "https://github.com/ObraGris/clawd-buddy",
